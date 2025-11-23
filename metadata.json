@@ -1,0 +1,7 @@
+{
+  "name": "Yesterday in Review",
+  "description": "A personalized daily news briefing app using Gemini Search Grounding, Intelligence, and TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
